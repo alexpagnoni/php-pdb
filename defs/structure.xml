@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<structure>
+
+  <library	name="php-pdb"	file="php-pdb.library"/>
+  <library	name="pdb-addrbook"	file="pdb-addrbook.library"/>
+  <library	name="pdb-datebook"	file="pdb-datebook.library"/>
+  <library	name="pdb-doc"	file="pdb-doc.library"/>
+  <library	name="pdb-mobiledb"	file="pdb-mobiledb.library"/>
+  <library	name="pdb-pdatoolbox"	file="pdb-pdatoolbox.library"/>
+  <library	name="pdb-smallbasic"	file="pdb-smallbasic.library"/>
+  <library	name="pdb-todo"	file="pdb-todo.library"/>
+
+</structure>
